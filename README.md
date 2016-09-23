@@ -1,0 +1,2 @@
+# sublimetext_plugins
+Sublimetextのプラグインの管理
